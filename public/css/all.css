@@ -1,0 +1,81 @@
+
+.logo-img {
+    width: 100px;
+}
+body {
+    background-color: #F4EEE8;
+}
+.slogan {
+    color: #3F3F3F;
+    font-family: 'Aldrich', sans-serif;
+}
+.nav-text {
+    font-family: 'Aldrich', sans-serif;
+}
+.card-title {
+    font-size: 2rem;
+}
+.btn-login {
+    background-color: #E77656 ;
+    color: #F4EEE8;
+}
+.btn-login:hover, .btn-login:active {
+    background-color: #E77656 ;
+    color: #F4EEE8;
+}
+.btn-register, .link-register {
+    background-color: #3F3F3F;
+    color: #F4EEE8;
+}
+.btn-register:hover, .link-register:hover, .btn-register:active, .link-register:active {
+    background-color: #3F3F3F;
+    color: #F4EEE8;
+}
+.guestbook img{
+    width: 800px;
+}
+.btn-comment {
+    background-color: #E77656;
+    color: #F4EEE8;
+    width: 300px;
+    height: 50px;
+}
+.btn-comment:hover, .btn-comment:active {
+    background-color: #E77656;
+    color: #F4EEE8;
+}
+.avatar-img img {
+    width: 30px;
+}
+.comment-link {
+    text-decoration: none !important;
+}
+.textarea {
+    width: 800px;
+}
+.textarea:focus {
+    outline: none !important;
+    box-shadow: none;
+}
+
+/* sweetalert */
+.btn-swalConfirm {
+    background-color: #3F3F3F !important;
+    color: #F4EEE8 !important;
+}
+.btn-swalConfirm:hover {
+    background-color: #3F3F3F !important;
+    color: #F4EEE8 !important;
+}
+.btn-swalConfirm:active, .btn-swalConfirm:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn-swalDeny {
+    background-color: #E77656 !important;
+    color: #F4EEE8 !important;
+}
+.btn-swalDeny:active, .btn-swalDeny:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
